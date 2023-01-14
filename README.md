@@ -1,11 +1,11 @@
 ### Hi there 👋
    
 <a target="_blank" href="https://twitter.com/Riyadh_z20" >
-<img src="https://github-readme-stats.vercel.app/api?username=RiyadhAlzahrani&show_icons=true&theme=dark&custom_title=GitHub%20Stats&border_radius=10px"  height="250" />
+<img src="https://github-readme-stats.vercel.app/api?username=RiyadhAlzahrani&show_icons=true&theme=dark&custom_title=GitHub%20Stats&border_radius=10px"  height="250" width="420" />
 </a>
 
 <a target="_blank" href="https://twitter.com/Riyadh_z20" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadhAlzahrani&theme=dark&border_radius=10px&show_icons=true"  height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadhAlzahrani&theme=dark&border_radius=10px&show_icons=true"  height="250" width="420" />
 </a>
 
 Credit to [Anurag Hazra](https://github.com/anuraghazra)
